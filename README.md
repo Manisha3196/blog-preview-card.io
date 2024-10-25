@@ -14,18 +14,22 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 Blog preview card using HTMl and CSS.
 
 ### Screenshot
 
+Desktop screenshot:
+![alt text](<Screenshot  Frontend Mentor Blog preview card.png>)
+
+Mobile screenshot:
+![alt text](<Screenshot Mobile Frontend Mentor Blog preview card.png>)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Manisha3196/blog-preview-card.io
+- Live Site URL: https://manisha3196.github.io/blog-preview-card.io/
 
 ## My process
 
